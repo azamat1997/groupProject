@@ -3,6 +3,7 @@ public class first {
         System.out.println("Hello world");
 
         if(true){
+            System.out.println("HIIIII");
 
         }
     }
